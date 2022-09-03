@@ -1,6 +1,10 @@
-This is a series of projects where I solve AI gym environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
+**This is a series of projects where I solve AI gym environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow**
 
-#Exercise
+<p align ="center">
+<img src = "cover.jpeg">
+</p>
+
+# Exercise
 Use Monte Carlo methods to evaluate a policy in reinforcement learning in Blackjack
 
 # Blackjack
